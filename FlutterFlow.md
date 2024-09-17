@@ -65,7 +65,7 @@ Caso não faça login automático, abra novamente o app e faça login
 
 ### Clique em Auth e selecione o Create Account 1 e depois que selecionado clique em My Theme
 
-![image](https://github.com/user-attachments/assets/2db7b9ba-ecf0-497a-b8c5-fd19f70a10f5)
+![image](https://github.com/user-attachments/assets/1c2acaa9-4f50-4380-9d18-ab03de86aa3d)
 
 <br>
 
@@ -87,7 +87,7 @@ Caso não faça login automático, abra novamente o app e faça login
 
 ### Desabilitar o Dark Mode
 
-![image](https://github.com/user-attachments/assets/1dd7e2a4-769f-459f-be62-abbb50728662)
+![image](https://github.com/user-attachments/assets/8e13d9ca-9a90-4975-bb48-9c7c7bf621cc)
 
 <br>
 
@@ -95,14 +95,13 @@ Caso não faça login automático, abra novamente o app e faça login
 
 ### Clicar em Extract from Image e selecionar a tela de cores.png
 
-![image](https://github.com/user-attachments/assets/d8d98f04-7835-4e54-b440-1455c7193226)
+![image](https://github.com/user-attachments/assets/c2da082c-8805-4f1e-ac54-767b84211539)
 
 <br>
 
 ### Após selecionar vai abrir uma tela confirmando as cores. Você deve descer a tela e clicar em Extract & Continue
 
 ![image](https://github.com/user-attachments/assets/129c78f9-2257-4cc8-9540-9fe42402e6b8)
-![image](https://github.com/user-attachments/assets/4b4b191a-da5e-44e6-9ff0-30daff1e62af)
 
 <br>
 
@@ -117,7 +116,6 @@ Caso não faça login automático, abra novamente o app e faça login
 
 ### Ao ajustar as cores ir em Typography & Icons, clicar no campo de Primary Font Family
 
-![image](https://github.com/user-attachments/assets/a0173e96-c3bb-49cc-adaa-fda941fda912)
 ![image](https://github.com/user-attachments/assets/ec0030d2-8b81-43ce-b3e8-6d011d10bb5e)
 ![image](https://github.com/user-attachments/assets/9535babe-a5fb-4774-9592-69ae369262ba)
 ![image](https://github.com/user-attachments/assets/0a446ecb-a795-4b4b-ba26-6220560e5550)
@@ -126,23 +124,21 @@ Caso não faça login automático, abra novamente o app e faça login
 
 ### Ir para a tela de configurações
 
-![image](https://github.com/user-attachments/assets/96e1f3e0-4f21-4d40-9315-9f4826206622)
 ![image](https://github.com/user-attachments/assets/0640f245-354a-4f81-a220-e2c80b3e2b81)
 
 <br>
 
 ### Vá em Apps Assets
 
-![image](https://github.com/user-attachments/assets/93f9c83d-ce36-4ac1-b9a2-c424b83f9a8e)
 ![image](https://github.com/user-attachments/assets/2e848950-30c5-4c2d-b710-691ffa36be50)
 
 <br>
 
 #### Baixar a logo do projeto: https://github.com/Leonardo-Faria-Oliveira/bitzen-minicursos/blob/main/logo%20do%20projeto.png
 
-### Na parte der Splash clicar no link de upload e carregar a logo
+### Na parte de Splash clicar no link de upload e carregar a logo
 
-![image](https://github.com/user-attachments/assets/f1177e30-d211-4475-adfc-c2dcde438fd3)
+![image](https://github.com/user-attachments/assets/7f1e52b6-559b-4c69-9c68-52dd97dd9bf2)
 ![image](https://github.com/user-attachments/assets/7e4b3776-ca5d-4e44-bd28-79e1b6548d0a)
 
 <br>
