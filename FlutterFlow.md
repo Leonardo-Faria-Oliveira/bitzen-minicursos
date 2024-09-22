@@ -526,5 +526,65 @@ Por fim, salve
 
 ### Mudar tipo de imagem para Asset e fazer upload das logos
 <img src='https://github.com/user-attachments/assets/af469e91-3e2c-466e-bfa0-88a7065b032f'/>
+
 <br>
 
+### Mude os tamanhos para 120 e 80 e mude o Box fit para Fit e mude a Row para alinhado ao meio e com espaçamento de 20
+<img src='https://github.com/user-attachments/assets/511f520a-e707-46a6-af80-4534370a58ad'/>
+<img src='https://github.com/user-attachments/assets/d3039bd5-b4ee-49d4-9a8c-7ec6d5cf8f53'/>
+
+<br>
+
+### Desafio: Aplicar os designs (Fontes e cores)
+<img src='https://github.com/user-attachments/assets/687cd068-b8e8-4b4e-8718-5f9bbe07993f'/>
+
+<br>
+
+### Selecione o Form e configure os inputs
+<img src='https://github.com/user-attachments/assets/545f2750-22b1-48a8-85e7-1a982e0013ee'/>
+
+<br>
+
+### Selecionar os botões e abrir o editor de actions
+<img src='https://github.com/user-attachments/assets/493d614c-2743-4e35-b10b-fadd49aa78a8'/>
+<img src='https://github.com/user-attachments/assets/21b2eaf4-3c0f-4f35-8879-5051728bdac9'/>
+
+<br>
+
+### Adicione uma action de Validate form e adicione os inputs
+<img src='https://github.com/user-attachments/assets/1d49bdbb-41ab-4f18-b757-e2c759108d1f'/>
+
+<br>
+
+### Adicione uma action depois de API Call, selecione Auth e selecione as variaveis
+<img src='https://github.com/user-attachments/assets/a268a63f-c869-430d-a8ef-f2a5ca1476bc'/>
+
+<br>
+
+### Complete os inputs com os dados do Widget State
+<img src='https://github.com/user-attachments/assets/25e51df2-8289-4e00-a219-286aca9ca5a4'/>
+<img src='https://github.com/user-attachments/assets/abf19b23-6db9-4761-9e33-c7a9034f0f2b'/>
+
+<br>
+
+### Quando o resultador for Succeed adicione uma action para navegar para a tela HomePage
+<img src='https://github.com/user-attachments/assets/37161dfe-652f-475b-aede-992df58f872e'/>
+<img src='https://github.com/user-attachments/assets/6f286df3-0d70-4d6f-aef1-770744d3157b'/>
+
+<br>
+
+### Quando não for, adicione uma action de Show Snack Bar
+<img src='https://github.com/user-attachments/assets/7c2d8ca4-82fb-44c7-81fc-44ec7dd9d7da'/>
+
+<br>
+
+### No campo value acesse o resultado de apiResultqOd, Acesse o JSON Body, selecione JSON Path e coloque .detail
+<img src='https://github.com/user-attachments/assets/922b9ae3-4d33-4cf7-adb0-1d0a80ae75af'/>
+<img src='https://github.com/user-attachments/assets/9a590144-6392-4bed-a523-86904894b424'/>
+
+<br>
+
+### Sete o background para vermelho
+<img src='https://github.com/user-attachments/assets/2fa61e3a-2cf7-4236-8f10-b853aab6d6c2'/>
+
+<br>
