@@ -334,25 +334,42 @@ Content-Type: application/json
 ### Desça a tela e adicione os seguintes valores aos JSON Paths
 
 $.id
+<br>
 $.matricula
+<br>
 $.nome_usual
+<br>
 $.cpf
+<br>
 $.rg
+<br>
 $.data_nascimento
+<br>
 $.email
+<br>
 $.url_foto_75x100
+<br>
 $.tipo_vinculo
+<br>
 <br>
 Aos JSON Paths adicione os sguintes nomes relacionados:
 <br>
 id
+<br>
 ra
+<br>
 name
+<br>
 cpf
+<br>
 rg
+<br>
 dataNascimento
+<br>
 email
+<br>
 photo
+<br>
 vinculo
 <br>
 Por fim, salve
@@ -361,19 +378,153 @@ Por fim, salve
 
 
 
+<br>
+
+### Volte para a tela de Login
+<br>
+<img src='https://github.com/user-attachments/assets/dcead68d-f682-48b4-944e-f19d0c138f57'/>
+
+<br>
+<br>
+
+### Selecione a página de componentes da tela
+<br>
+<img src='https://github.com/user-attachments/assets/69e6da84-2d14-4a9f-a1fb-d4a3f602d376'/>
+
+<br>
+
+### Clique nos erros em cima
+<br>
+<img src='https://github.com/user-attachments/assets/454fe432-f5ad-4c29-bfed-e572a0beb1a8'/>
+
+<br>
+
+### Clicar no primeiro e excluir a action
+<br>
+<img src='https://github.com/user-attachments/assets/c5fbfb61-fada-4be3-9c9b-03fa92d0a40a'/>
+<img src='https://github.com/user-attachments/assets/993f9ca5-14ea-4402-9cfe-d2f2edabdf5f'/>
+
+<br>
+
+### Clicar no segundo erro e na página de configurações setar a Logged In Page como Home Page
+<br>
+<img src='https://github.com/user-attachments/assets/e7fe3a88-f826-4d5d-a594-20e97d8f7d5e'/>
+
+<br>
+
+### Voltar para a tela de componentes e excluir os componentes gradient e rich text
+
+#### Antes:
+<img src='https://github.com/user-attachments/assets/0bf5cc0e-526a-4874-b193-69794d9ceabe'/>
+<br>
+
+#### Depois:
+<img src='https://github.com/user-attachments/assets/b8be8094-4a9a-4e09-8679-1220608f159b'/>
+<br>
+
+### Exclua o subtítulo e altere o título para Bem vindo
+<br>
+<img src='https://github.com/user-attachments/assets/d0374758-95fe-4fb1-9246-7aa287c9cfd4'/>
+
+<br>
+
+### Pegar a Column, arrastar e soltar para formContainer e clicar em Replace. Excluir scrollingContainer
+<br>
+<img src='https://github.com/user-attachments/assets/c26a82a3-27cd-4286-b2b6-1eee8a39c8d1'/>
+<img src='https://github.com/user-attachments/assets/1637792c-f4ad-4cdb-9691-68e5ab3b8338'/>
+
+<br>
+
+### Clicar na Column, olhar o manu da direita, ir em Main Axis Size e clicar no Mininum
+
+#### Antes: 
+<img src='https://github.com/user-attachments/assets/e7345c1c-f8d9-4509-95e6-5b9d3600d951'/>
+<br>
+
+#### Depois:
+<img src='https://github.com/user-attachments/assets/248c2f8b-56b0-4c6f-b72d-91834a66db7f'/>
+<br>
+
+### Centralizar o titulo
+
+#### Antes:
+<img src='https://github.com/user-attachments/assets/6ef8bd30-3fad-48dd-bf27-995c47f17df2'/>
+<br>
+
+#### Depois:
+<img src='https://github.com/user-attachments/assets/b94a3d61-7433-49c0-a711-e65765d15b81'/>
+<br>
+
+### Excluir o campo de Confirmar senha:
+<img src='https://github.com/user-attachments/assets/890cd08b-46fc-440a-bda0-758de0a3da20'/>
+
+<br>
+
+### Clique no campo de email com o botão direito e vá em Wrap widget. Com ele aberto selecione Column. Depois arraste password para essa Column
+<img src='https://github.com/user-attachments/assets/9bcf9f20-a4bf-4d60-80a0-281909f18037'/>
+<img src='https://github.com/user-attachments/assets/385b0ed0-f7cc-4076-a49a-f79b1cecb505'/>
+
+<br>
+
+### Clique na Column e adicione um espaçamento de 64
+<img src='https://github.com/user-attachments/assets/d13812c6-329f-44af-8008-188864fd42e8'/>
+
+<br>
+
+### Na row clique para adicionar um componente de Form Validation
+<img src='https://github.com/user-attachments/assets/ab745a19-f486-4a0d-9bc1-5a8d2de3570d'/>
+
+<br>
+
+### Selecione a Column e arraste para dentro do Form Validation. Depois arraste o Form Validation para Login e clique em Replace
+<img src='https://github.com/user-attachments/assets/c4b43504-7dd1-4dd9-a287-474b407232f1'/>
+<img src='https://github.com/user-attachments/assets/caf932d2-e23a-475f-9e14-775e65dea04b'/>
+
+<br>
+
+### Selecione os inputs e mude para RA e senha. Selecione o botão e mude o texto para ENVIAR ou LOGIN
+
+#### RA: 
+<img src='https://github.com/user-attachments/assets/087b940b-0555-4bac-ac74-93876fe88e05'/>
+<br>
+
+#### Senha:
+<img src='https://github.com/user-attachments/assets/f7bc197a-3f77-4026-947c-966519dbb125'/>
+
+<br>
+
+### Clique no componente pai, adicione uma Row e faça Wrap in Column
+<img src='https://github.com/user-attachments/assets/ae3f109f-85b3-49e2-932c-50e6bd2ff0d2'/>
+<img src='https://github.com/user-attachments/assets/4d6fdbd8-0edc-4f7e-84ac-b799e6cb6ce7'/>
+
+<br>
 
 
+### Selecione a Column pai, mude o Main Axis Alingment para baixo e adicione o espaçamento de 100
 
+#### Antes: 
+<img src='https://github.com/user-attachments/assets/36b618b0-06fb-4163-b8ca-c7bd8037dc2a'/>
+<br>
 
+### Depois: 
+<img src='https://github.com/user-attachments/assets/b8dcaada-c311-4c3d-8786-e70493ace856'/>
 
+<br>
 
+### Adicione duas imagens na Row
+<img src='https://github.com/user-attachments/assets/e7312fdd-2643-4a4b-981a-f17bf4ff81bc'/>
+<img src='https://github.com/user-attachments/assets/77ad864f-b300-412e-a2ec-3fd168989d4e'/>
 
+<br>
 
+### Baixar a logo da bitzen e da UENP
+<a href='https://github.com/Leonardo-Faria-Oliveira/bitzen-minicursos/blob/main/mini-bitzen.png'> Bitzen</a>
+<br>
+<a href='https://github.com/Leonardo-Faria-Oliveira/bitzen-minicursos/blob/main/logo-uenp-m.png'> UENP</a>
 
+<br>
 
-
-
-
-
-
+### Mudar tipo de imagem para Asset e fazer upload das logos
+<img src='https://github.com/user-attachments/assets/af469e91-3e2c-466e-bfa0-88a7065b032f'/>
+<br>
 
