@@ -412,6 +412,8 @@ Por fim, salve
 
 <br>
 
+## Parte 5: Desenvolvimento das telas
+
 ### Voltar para a tela de componentes e excluir os componentes gradient e rich text
 
 #### Antes:
@@ -778,3 +780,5 @@ Baixe as logos:
 <img src='https://github.com/user-attachments/assets/56639232-a4e1-49b9-acfe-9e2baa726138'/>
 
 <br>
+
+### Execute
