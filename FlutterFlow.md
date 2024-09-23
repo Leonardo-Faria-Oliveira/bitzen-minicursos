@@ -588,3 +588,193 @@ Por fim, salve
 <img src='https://github.com/user-attachments/assets/2fa61e3a-2cf7-4236-8f10-b853aab6d6c2'/>
 
 <br>
+
+
+### Va para a Home page, abra a tela de componentes e adicione uma Column e dentro dela um Container e uma Row
+<img src='https://github.com/user-attachments/assets/d9f034a6-13a2-492c-91e2-a3eaba724b7e'/>
+
+<br>
+
+### Selecione o componente pai e mude a cor de fundo da tela para Primary. Selecione a Column e sete o espaçamento para space between
+
+#### Antes:
+<img src='https://github.com/user-attachments/assets/aea20c95-5d54-4a0e-a257-97ea2e60ce5d'/>
+<br>
+
+#### Depois:
+<img src='https://github.com/user-attachments/assets/699e3c78-38fd-4fbc-968f-696031cca334'/>
+
+<br>
+
+### Selecione o Container e mude a largura dele para 90% e o height para 680. Mude o Border radius para 3
+
+#### Antes: 
+<img src='https://github.com/user-attachments/assets/5525db63-d3b6-49d1-9812-b2ddd9ad339e'/>
+<br>
+
+#### Depois: 
+<img src='https://github.com/user-attachments/assets/c56f2e75-00e7-4aef-9239-92bfd69fc14f'/>
+
+<br>
+
+### Selecione o container e adicione uma column. Dentro dessa column adicione uma column, um grid view e um button
+<img src='https://github.com/user-attachments/assets/395018d8-f1c6-4886-9df5-c1ddf22b18ca'/>
+
+<br>
+
+### Na column logo acima do Grid view adicione uma imagem, dois textos e um Divider
+<img src='https://github.com/user-attachments/assets/53451477-fcd3-42bd-885f-7f5a142f8d83'/>
+
+<br>
+
+### Adicione um padding de 32 em cima dessa Column. Selecione a imagem, mude o width e o heoght para 130 e mude o border radius para 360. Adicione um padding embaixo da imagem de 28
+<img src='https://github.com/user-attachments/assets/97fe3194-581b-413d-bd16-9a937315fdf6'/>
+<img src='https://github.com/user-attachments/assets/4cb392d1-f021-41fe-909d-d18e2ea1f92c'/>
+
+<br>
+
+### Selecione o primeiro texto embaixo da imagem, sete o tamanho para 24, mude para Lato na cor Secondary Text (azul marinho) com o peso bold e adicione um padding embaixo de 8
+<img src='https://github.com/user-attachments/assets/1be39c24-8fca-4df6-b802-4416f5f0d88a'/>
+
+<br>
+
+### Selecione o texto mais embaixo mude para o tamanho 16, Lato em uma cor mais cinza e bold. Adicione um padding de 24 embaixo
+<img src='https://github.com/user-attachments/assets/c9a59459-3240-4bfc-9e35-6be0c78c81ac'/>
+
+<br>
+
+### Selecione o Divider, mude a cor para Primary, sete o tamanho para 320, mude a espessura para 1.5 e adicione um padding embaixo de 16
+<img src='https://github.com/user-attachments/assets/9c3cfbb8-aa13-4c58-9028-ef0a8cf2d38d'/>
+
+<br>
+
+### Selecione o grid View e adicione 4 containers. Mude a cor deles para Primary para facilitar a configuração de layout.  No Grid View adicione o Cross Axis Count como 2, o Cross Axis Spacing 8.0, o Main Axis Spacing como 20, o Child Aspect Ratio como 1.4 e o Start Spacing 10.0. Adicione 16 de padding na esquerda e na direita e 100 embaixo
+<img src='https://github.com/user-attachments/assets/a169f481-1821-4de3-8c98-78f1de2a1853'/>
+
+<br>
+
+### Clique com o botão direito no Grid View e vá em Insert After. Mude a cor dele para Primary e mude a altura para 80 a largura para 120 e adicione um padding embaixo de 40
+<img src='https://github.com/user-attachments/assets/a61c692a-95a8-4b3f-abe3-3aa32f5fcd8f'/>
+<img src='https://github.com/user-attachments/assets/842869b2-5fab-4ddd-8bff-e1341e9ac8e0'/>
+
+<br>
+
+
+### Remova as cores e dentro de cada container desse adicione um Icon, e dois textos (selecione wrap in Column)
+<img src='https://github.com/user-attachments/assets/90028ee7-7119-4f27-ab2f-8fec98dd5f23'/>
+
+<br>
+
+
+### Selecione os icones, clique no Arrow Back para mudar de icone e adicione:
+
+1:  date (qualquer um a escolha) <br>
+2:  scholar (qualquer um a escolha) <br>
+3:  docs (qualquer um a escolha) <br>
+4:  user (qualquer um a escolha) <br>
+5:  mail (qualquer um a escolha) <br>
+<br>
+<img src='https://github.com/user-attachments/assets/e4b84046-c8c7-4c06-8cb8-c4026740cc07'/>
+
+<br>
+
+### Mude os textos principais para:
+
+1: Data de nascimento <br>
+2: Vínculo <br>
+3: RG <br>
+4: CPF <br>
+5: Email <br>
+<br>
+<img src='https://github.com/user-attachments/assets/c6f24102-e376-4d19-a9a4-114040e4dee1'/>
+
+<br>
+
+### Aplique os designs:
+
+Icones: tamanho 26 x 26, cor Primary, padding embaixo de 8 <br>
+Títulos: Lato, tamanho 14, Azul marinhi, bold e padding embaixo de 8 <br>
+Subtítulo:  Lato, Cinza, tamanho 10 <br>
+<img src='https://github.com/user-attachments/assets/97f29bec-fa95-4f19-af8d-9037395ddce2'/>
+
+<br>
+
+### Selecione o Button e adicione um padding embaixo de 20,a largura para 80%, o Border radius para 4 e a altura para 48. Mude o texto para SAIR e adicione um icone de log out
+<img src='https://github.com/user-attachments/assets/af37b6ac-7003-449a-abfb-53cb643c5ee0'/>
+
+<br>
+
+### Selecione a row e adicione duas imagens. Sete o tipo das imagens para asset, o Box fit para Fit, sete a largura como 120 e a altura como 60. Adicione um padding de 10 em cima da Row
+<br>
+Baixe as logos:
+
+<a href='https://github.com/Leonardo-Faria-Oliveira/bitzen-minicursos/blob/main/white-bitzen.png'>White Bitzen</a><br>
+<a href='https://github.com/Leonardo-Faria-Oliveira/bitzen-minicursos/blob/main/white-uenp.png'>White UENP</a><br>
+
+#### Adicione essas imagens:
+<img src='https://github.com/user-attachments/assets/b794072a-6bab-48e0-83bf-12746307491c'/>
+
+<br>
+
+### Vá no action flow editor da Home Page, selecione o gatilho on Page Load e adicione uma API Call
+<img src='https://github.com/user-attachments/assets/6bd85079-5704-4ae8-b3ea-2ddb1186aaa6'/>
+
+<br>
+
+### Sete a API Call para GetUserById e adicione o parametro accessToken. Para setar o valor dele acesse o app state
+<img src='https://github.com/user-attachments/assets/b6c078cd-5b48-478f-802a-c06247e361ca'/>
+
+<br>
+
+### Vá para a página de Login e quando o resultado da API for Succeed adicione um Update App State antes da ação de navegação
+<img src='https://github.com/user-attachments/assets/0b9069b4-1087-4e5d-a229-55376b73e1bd'/>
+
+<br>
+
+### Sete o valor para o que receber do API Result
+<img src='https://github.com/user-attachments/assets/35f792ce-d4f6-4a42-a215-22314505a392'/>
+
+<br>
+
+#### Confirme tudo e volte para a Home Page
+
+### Na HomePage quando o resultado da Api for Succeed adicione um Update App State para um User
+<img src='https://github.com/user-attachments/assets/acadaaab-9a35-4ca5-bae8-e82202550b1e'/>
+
+<br>
+
+### Crie um User com base no Data Type criado e no resultado da api
+<img src='https://github.com/user-attachments/assets/5eff26ed-b0c1-4f3e-aca6-1ec5264ee282'/>
+<img src='https://github.com/user-attachments/assets/07dbae5e-5436-4dcb-b991-5b7b01601f4e'/>
+
+<br>
+
+### Volte pata a tela de componentes, selecione os Hello Worlds e mude para os valores do app state
+<img src='https://github.com/user-attachments/assets/9e3be65e-91f2-4705-8b42-ab8c471fcdc8'/>
+<img src='https://github.com/user-attachments/assets/7962a7d5-61bf-44f5-b482-3fb5f471bb9f'/>
+<img src='https://github.com/user-attachments/assets/c2342ca0-ba1b-453b-b80f-d9a162d74e22'/>
+<img src='https://github.com/user-attachments/assets/ca6902da-5f75-4a50-af5f-a4cede150985'/>
+
+<br>
+
+### Selecione a foto, e no endereço do network adicione um Combine Text. Adicione no Text 1: https://suap.uenp.edu.br/. Adicione ao Text 2 a photo do User dp App State
+<img src='https://github.com/user-attachments/assets/775c72b9-a326-4c58-b311-c9c449a7d286'/>
+
+<br>
+
+### Selecione o Botão de sair. Adicione uma ação de limpar o APP State e navegar para a página de login
+<img src='https://github.com/user-attachments/assets/5fe38d02-0e74-4ccf-ac83-e5b6eaa30d51'/>
+
+<br>
+
+
+### Desafio: Vá para Custom Code e adicione uma custom function de formatação de data em flutter
+<img src='https://github.com/user-attachments/assets/c38882f0-7665-4bf5-b932-d598dca59134'/>
+<img src='https://github.com/user-attachments/assets/a62f3d2f-fb16-4717-a7db-0c6395bc5070'/>
+
+<br>
+
+### Adicione a custom function na exibição da data
+<img src='https://github.com/user-attachments/assets/56639232-a4e1-49b9-acfe-9e2baa726138'/>
+
+<br>
