@@ -149,7 +149,7 @@ Caso não faça login automático, abra novamente o app e faça login
 
 <br>
 
-Ajuste o width da logo para 300
+### Ajuste o width da logo para 300
 
 ![image](https://github.com/user-attachments/assets/377b1d14-d138-4aaf-b2d7-2e58c6e3fd75)
 
